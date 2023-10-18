@@ -61,7 +61,7 @@ header a:hover{
     height: 1.5rem;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(assets/icon/arrow.svg);
+    background-image: url(/assets/icon/arrow.svg);
     transition: .25s;
 
 }
@@ -118,7 +118,7 @@ body{
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(assets/icon/file-type-python.svg);
+    background-image: url(/assets/icon/file-type-python.svg);
     transition: .25s; 
 }
 
@@ -127,7 +127,7 @@ body{
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(assets/icon/java-original-wordmark.svg);
+    background-image: url(/assets/icon/java-original-wordmark.svg);
     transition: .25s;
 }
 .js{
@@ -135,7 +135,7 @@ body{
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(assets/icon/javascript.svg);
+    background-image: url(/assets/icon/javascript.svg);
     transition: .25s;
 }
 .c{
@@ -143,7 +143,7 @@ body{
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(assets/icon/c-original.svg);
+    background-image: url(/assets/icon/c-original.svg);
     transition: .25s;
 }
 .html{
@@ -151,7 +151,7 @@ body{
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(assets/icon/html-5.svg);
+    background-image: url(/assets/icon/html-5.svg);
     transition: .25s;
 }
 .css{
@@ -160,7 +160,7 @@ body{
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(assets/icon/css3-original-wordmark.svg);
+    background-image: url(/assets/icon/css3-original-wordmark.svg);
     transition: .25s;
 }
 
