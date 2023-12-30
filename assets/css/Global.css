@@ -163,7 +163,22 @@ body{
     background-image: url(../icon/css3-original-wordmark.svg);
     transition: .25s;
 }
-
+.godot{
+    content: "";
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../icon/godot.svg);
+    transition: .25s; 
+}
+.wordp{
+    content: "";
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../icon/wordp.svg);
+    transition: .25s; 
+}
 .pess{
     display: grid;
     grid-template-columns: 1fr;
