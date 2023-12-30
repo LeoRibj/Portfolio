@@ -205,6 +205,15 @@ body{
     background-image: url(../icon/github.svg);
     transition: .25s;
 }
+
+.cert a{
+    text-decoration: none;
+    color: white;
+}
+.cert a:hover{
+    text-decoration: none;
+    color: black;
+}
 @media only screen and (min-width: 768px){
     header section{
         display: grid;
