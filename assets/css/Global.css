@@ -69,8 +69,8 @@ header a:hover{
     transform: rotate(180deg);
 }
 .acor.open{
-    background-color: rgb(43, 168, 226);
-    border-color: rgb(43, 168, 226);
+    background-color: rgb(98, 107, 111);
+    border-color: rgb(98, 107, 111);
 
 }
 .acor.open .cont{
@@ -79,8 +79,8 @@ header a:hover{
 }
 
 .acor:hover{ 
-    background-color: rgb(43, 168, 226);
-    border-color: rgb(43, 168, 226);
+    background-color: rgb(98, 107, 111);
+    border-color: rgb(98, 107, 111);
 }
 .cont{
     display: none;
